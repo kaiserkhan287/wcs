@@ -1,0 +1,1115 @@
+# COMPLETE MASTER PROMPT — WEB CONNECT SOLUTIONS
+## Premium Multi-Page Website | Advanced SEO | Local SEO | Lead Generation
+
+Act as an expert website architect, award-winning UI/UX designer, creative director, senior HTML/CSS/JavaScript developer, technical SEO specialist, local SEO strategist, content strategist, and conversion rate optimization expert.
+
+Your task is to design and build a complete, professional, visually outstanding, production-ready multi-page website for **Web Connect Solutions**, a digital services business based in Indore, Madhya Pradesh, India.
+
+The website must look premium, modern, clean, creative, trustworthy, and distinctive. It should immediately communicate professionalism, demonstrate the value of the services, build confidence, and motivate potential customers to enquire about services.
+
+The website must be built for long-term organic search visibility, strong local SEO, excellent user experience, and consistent lead generation.
+
+This is a complete website development project, not a landing page, wireframe, design mockup, or incomplete prototype.
+
+---
+
+# 1. STRICT BRAND NAMING RULE — ABSOLUTELY MANDATORY
+
+The official and complete business name is:
+
+**Web Connect Solutions**
+
+Use the full name "Web Connect Solutions" consistently wherever the business name appears.
+
+Never abbreviate, shorten, modify, or replace the business name with an acronym or alternative brand name.
+
+This rule applies to:
+
+- Homepage
+- About Us page
+- Contact Us page
+- Services landing page
+- Every main service page
+- Every child service page
+- Header and navigation
+- Footer
+- Website content and headings
+- SEO titles and meta descriptions
+- Image alt text when the brand name is relevant
+- JSON-LD structured data
+- Open Graph metadata
+- Contact forms
+- Calls to action
+- Blog articles
+- Legal pages
+- HTML comments and project documentation
+- Website configuration and source-code comments
+
+Do not use an abbreviated form of the business name anywhere in the delivered project.
+
+The full business name must remain consistent across all visible content, metadata, code, structured data, and documentation.
+
+Do not invent an alternative brand name or modify the official business name.
+
+---
+
+# 2. TECHNOLOGY REQUIREMENTS — NO REACT
+
+Build the entire website using only:
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Separate HTML documents for individual pages
+- Shared CSS files
+- Shared JavaScript files
+- Static assets and properly optimized images
+
+Strictly prohibited:
+
+- React
+- Next.js
+- Vue
+- Angular
+- Svelte
+- JSX or TSX
+- SPA architecture
+- Framework-dependent routing
+- Single-page applications
+- A single HTML document containing all service pages
+- Fake navigation links
+- Empty placeholder pages
+- Non-functional buttons
+
+Every main service and every child service must have its own actual `.html` file with a unique, accessible URL.
+
+Use shared CSS and JavaScript to maintain consistency, but ensure each page contains its own complete, relevant HTML content.
+
+The website must be deployable on standard static hosting.
+
+Use semantic HTML and progressive enhancement. Important content must remain available to users and search engines even when JavaScript is disabled.
+
+Do not use JavaScript to inject all the page content dynamically after loading.
+
+---
+
+# 3. CREATIVE DIRECTION AND VISUAL IDENTITY
+
+Create a unique, premium visual identity for Web Connect Solutions.
+
+The website should feel like a sophisticated digital growth agency, not a generic template purchased from a marketplace.
+
+## Recommended design direction
+
+- Modern editorial layouts
+- Bold and confident typography
+- Clean, structured spacing
+- High-quality visual storytelling
+- Distinctive hero compositions
+- Beautifully presented service categories
+- Professional website and design project mockups
+- Elegant section transitions
+- Carefully selected photography
+- Refined interactive elements
+- Minimal, purposeful animation
+- Strong visual hierarchy
+- Excellent readability
+- Clear conversion-focused buttons
+
+Create a distinctive color palette using deep navy or near-black, white or warm off-white, and a carefully selected electric blue or lime accent.
+
+Use the colors consistently. Avoid excessive gradients, neon effects, unnecessary shadows, glassmorphism, glowing elements, and overused AI-generated design patterns.
+
+Use CSS for subtle motion and interaction. Respect the user's reduced-motion preference.
+
+## Design requirements
+
+The homepage, About Us page, main service pages, and child service pages should have a consistent design system but should not all look identical.
+
+Give individual service categories appropriate visual treatments.
+
+For example:
+
+- Website Development: browser mockups, responsive website previews, interface compositions.
+- Graphic Design: brand identity boards, logo showcases, packaging and social creative mockups.
+- SEO: search visibility illustrations, content architecture, keyword strategy visuals.
+- Social Media Optimization: carefully arranged social media creative previews.
+- Google Business Profile Management: local search and business profile-related visual examples.
+- Digital Marketing: campaign creative, advertising layouts, and conversion-focused visual compositions.
+
+Use real business assets and verified portfolio work when available. Where original portfolio assets are unavailable, use clearly illustrative sample compositions that do not falsely imply completed client projects.
+
+Do not invent customer logos, testimonials, awards, results, or statistics.
+
+The finished website must look impressive on both desktop and mobile devices.
+
+---
+
+# 4. BUSINESS INFORMATION
+
+Official business name: Web Connect Solutions
+
+Location: Indore, Madhya Pradesh, India
+
+Primary market: Indore and surrounding business markets, with the ability to serve suitable clients throughout India.
+
+WhatsApp contact number: +91 86299 27995
+
+WhatsApp URL: https://wa.me/918629927995
+
+Services:
+
+- Website Design and Development
+- Graphic Design
+- Search Engine Optimization
+- Social Media Optimization
+- Google Business Profile Management
+- Digital Marketing
+- Video Editing and other creative services only if confirmed as currently offered
+
+Existing prototype for reference:
+
+https://webconnectsolutions.netlify.app/
+
+Use the prototype only to verify available business details and existing brand assets. Do not copy its design automatically.
+
+Use only verified business information.
+
+Do not invent:
+
+- Street addresses
+- Email addresses
+- Business hours
+- Customer testimonials
+- Ratings
+- Awards
+- Number of employees
+- Years of experience
+- Client statistics
+- Revenue figures
+- Guaranteed ranking claims
+- Unverified performance results
+
+If a business detail is missing, leave a clearly documented configuration point rather than publishing fabricated information.
+
+Keep the full business name consistent throughout the website.
+
+---
+
+# 5. COMPLETE WEBSITE PAGE ARCHITECTURE
+
+Build every page in the following architecture.
+
+Every listed main service and child service must have its own HTML document.
+
+## A. Core Website Pages
+
+- `/index.html` — Homepage
+- `/about-us.html` — About Us
+- `/services.html` — All Services
+- `/contact-us.html` — Contact Us
+- `/our-work.html` — Portfolio and Projects
+- `/blog/index.html` — Blog and Resources
+- `/privacy-policy.html` — Privacy Policy
+- `/terms-and-conditions.html` — Terms and Conditions
+- `/sitemap.html` — Human-readable HTML Sitemap
+- `/404.html` — Custom Not Found Page
+
+The 404 page must be configured to return the correct HTTP 404 status on the final hosting platform.
+
+## B. Website Design and Development
+
+Main service page:
+
+`/services/website-design-development.html`
+
+Child service pages:
+
+1. `/services/website-design-development/ecommerce-website-development.html`
+2. `/services/website-design-development/business-corporate-websites.html`
+3. `/services/website-design-development/ai-integrated-websites.html`
+4. `/services/website-design-development/erp-management-systems.html`
+5. `/services/website-design-development/shopify-store-development.html`
+6. `/services/website-design-development/portfolio-personal-websites.html`
+
+## C. Graphic Design
+
+Main service page:
+
+`/services/graphic-design.html`
+
+Child service pages:
+
+1. `/services/graphic-design/social-media-post-design.html`
+2. `/services/graphic-design/logo-design-branding.html`
+3. `/services/graphic-design/brand-identity-design.html`
+4. `/services/graphic-design/youtube-thumbnail-design.html`
+5. `/services/graphic-design/product-label-packaging-design.html`
+
+## D. Search Engine Optimization
+
+Main service page:
+
+`/services/seo-services.html`
+
+Child service pages:
+
+1. `/services/seo-services/on-page-seo.html`
+2. `/services/seo-services/off-page-seo-link-building.html`
+3. `/services/seo-services/technical-seo-audit.html`
+4. `/services/seo-services/keyword-research-strategy.html`
+5. `/services/seo-services/local-seo.html`
+
+## E. Social Media Optimization
+
+Main service page:
+
+`/services/social-media-optimization.html`
+
+Child service pages:
+
+1. `/services/social-media-optimization/social-media-strategy.html`
+2. `/services/social-media-optimization/content-creation-posting.html`
+3. `/services/social-media-optimization/profile-optimization.html`
+4. `/services/social-media-optimization/community-management.html`
+5. `/services/social-media-optimization/social-media-analytics.html`
+
+## F. Google Business Profile Management
+
+Use Google Business Profile as the primary terminology. Mention Google My Business only when useful for explaining the former name or matching a relevant search query naturally.
+
+Main service page:
+
+`/services/google-business-profile-management.html`
+
+Child service pages:
+
+1. `/services/google-business-profile-management/profile-setup.html`
+2. `/services/google-business-profile-management/profile-optimization.html`
+3. `/services/google-business-profile-management/profile-growth-management.html`
+4. `/services/google-business-profile-management/review-management.html`
+5. `/services/google-business-profile-management/posts-updates-management.html`
+
+Never promise guaranteed Google Maps rankings, guaranteed positive reviews, or guaranteed profile reinstatement.
+
+## G. Digital Marketing
+
+Main service page:
+
+`/services/digital-marketing.html`
+
+Create the following dedicated child pages:
+
+1. `/services/digital-marketing/google-ads-ppc.html`
+2. `/services/digital-marketing/meta-ads.html`
+3. `/services/digital-marketing/lead-generation.html`
+4. `/services/digital-marketing/conversion-rate-optimization.html`
+5. `/services/digital-marketing/marketing-strategy.html`
+6. `/services/digital-marketing/remarketing-retargeting.html`
+7. `/services/digital-marketing/email-marketing.html`
+8. `/services/digital-marketing/marketing-analytics.html`
+
+These are proposed service offerings. Verify that Web Connect Solutions can deliver each one before presenting it as an active service.
+
+If confirmation is unavailable, mark it for owner review before launch. Do not publish unconfirmed capabilities as established facts.
+
+## H. Blog and Resources
+
+Build a proper blog architecture with a blog landing page and a reusable individual article template.
+
+Suggested categories:
+
+- Website Design and Development
+- SEO and Local SEO
+- Graphic Design and Branding
+- Social Media Marketing
+- Google Business Profile
+- Digital Advertising
+- Digital Marketing for Small Businesses
+
+Do not create empty articles or publish generic filler content.
+
+Create individual article HTML files when genuine, useful article content is ready.
+
+Each article should have its own metadata, canonical URL, appropriate author information, publication dates, internal links, and Article or BlogPosting structured data when applicable.
+
+---
+
+# 6. HOMEPAGE DESIGN
+
+The homepage must immediately communicate the services offered, the value provided, and why a potential client should contact Web Connect Solutions.
+
+Build the following sections.
+
+## 6.1 Premium Navigation
+
+Include:
+
+- Full business name or supplied logo
+- Home
+- About Us
+- Services mega-menu
+- Portfolio
+- Blog
+- Contact Us
+- Prominent project enquiry CTA
+
+The Services mega-menu should group all main service categories and link to their respective pages.
+
+Include child service links in an organized and accessible dropdown or secondary navigation.
+
+## 6.2 Hero Section
+
+Create an original, memorable hero section with:
+
+- A powerful business-focused headline
+- Concise supporting copy
+- Primary CTA: "Discuss Your Project"
+- Secondary CTA: "Explore Our Services"
+- A premium visual composition showing digital work
+
+Avoid generic headings such as "Welcome to Our Website".
+
+The headline should communicate how Web Connect Solutions helps businesses improve their digital presence through websites, design, SEO, and marketing.
+
+## 6.3 Services Overview
+
+Showcase all six principal service categories:
+
+- Website Design and Development
+- Graphic Design
+- Search Engine Optimization
+- Social Media Optimization
+- Google Business Profile Management
+- Digital Marketing
+
+Each category must have a short, meaningful explanation and a direct link to its dedicated page.
+
+## 6.4 Featured Services
+
+Highlight relevant child services such as e-commerce website development, logo design, local SEO, social media management, Google Business Profile optimization, and advertising management.
+
+Use actual links to their dedicated HTML pages.
+
+## 6.5 Why Choose Us
+
+Explain the genuine strengths of Web Connect Solutions through clear, customer-focused messaging.
+
+Do not invent business statistics or unsupported claims.
+
+## 6.6 Our Process
+
+Present a clear process:
+
+1. Understand the client's goals.
+2. Research and plan.
+3. Design and execute.
+4. Review and refine.
+5. Launch and improve where applicable.
+
+## 6.7 Portfolio
+
+Show genuine work supplied by the business.
+
+Use visually strong mockups, clear project descriptions, and relevant service categories.
+
+Do not claim that illustrative samples are real client projects.
+
+## 6.8 Industries and Use Cases
+
+Explain how services can support relevant customer types, such as:
+
+- Small and medium-sized businesses
+- Startups
+- Local service providers
+- Retail businesses
+- E-commerce brands
+- Professional service businesses
+- Creators and personal brands
+
+Avoid claiming specialized industry experience without evidence.
+
+## 6.9 FAQs
+
+Answer genuine buying questions about services, process, deliverables, project scope, communication, and enquiries.
+
+## 6.10 Final CTA
+
+Create a visually strong final section inviting visitors to discuss their project.
+
+Include a working WhatsApp CTA and contact page link.
+
+## 6.11 Footer
+
+Include:
+
+- Full business name
+- Verified contact information
+- Main service categories
+- Important child service links
+- About Us
+- Contact Us
+- Portfolio
+- Blog
+- Privacy Policy
+- Terms and Conditions
+- Copyright notice
+
+Keep the footer consistent across all pages.
+
+---
+
+# 7. MAIN SERVICE PAGE REQUIREMENTS
+
+Each main service page must explain the category comprehensively and link to all its child services.
+
+For each category, include:
+
+- Unique hero section
+- Relevant H1
+- Clear service description
+- Customer problems addressed
+- Main service benefits
+- Available deliverables
+- Service-specific features
+- Suitable customer types
+- Relevant examples and use cases
+- Explanation of the working process
+- Child service grid with working links
+- Relevant FAQs
+- Related service links
+- WhatsApp enquiry CTA
+- Contact form CTA
+- Breadcrumb navigation
+- Final conversion section
+
+Do not copy the same page template text into every category.
+
+The layout can share components, but each service category must have a distinctive visual presentation and genuinely relevant content.
+
+---
+
+# 8. CHILD SERVICE PAGE REQUIREMENTS
+
+Every child service must have its own complete, useful, indexable HTML page.
+
+Each page must contain:
+
+1. Unique SEO title.
+2. Unique meta description.
+3. One descriptive H1.
+4. Service-specific hero section.
+5. Customer problem and solution.
+6. Explanation of the service.
+7. Relevant features and benefits.
+8. Clear deliverables.
+9. Process and implementation steps.
+10. Suitable customer types.
+11. Relevant examples or illustrative visuals.
+12. Genuine FAQs.
+13. Breadcrumb navigation.
+14. Link to its parent service page.
+15. Links to related services.
+16. Relevant educational articles where available.
+17. Contextual WhatsApp enquiry CTA.
+18. Contact page CTA.
+19. Final conversion-focused section.
+
+Content must match the specific search intent.
+
+For example:
+
+### E-commerce Website Development
+
+Discuss:
+
+- Product catalogue and category structure
+- Shopping cart
+- Checkout experience
+- Payment gateway integration where required
+- Mobile shopping experience
+- Order management
+- Product inventory integration where applicable
+- Security considerations
+- Analytics and conversion tracking
+
+### Logo Design and Branding
+
+Discuss:
+
+- Brand recognition
+- Logo concepts and variations
+- Scalability and legibility
+- Typography and color choices
+- Appropriate file formats
+- Print and digital applications
+- Brand consistency
+
+### Local SEO
+
+Discuss:
+
+- Local search intent
+- Location-relevant website content
+- Google Business Profile alignment
+- Relevant local landing pages
+- Website technical foundations
+- Genuine local business citations where appropriate
+- Local customer FAQs
+- Ethical approaches to improving local visibility
+
+### Technical SEO Audit
+
+Discuss:
+
+- Crawlability
+- Indexability
+- Canonicalization
+- Broken links
+- Redirects
+- Page performance
+- Structured data validation
+- Sitemap and robots.txt
+- Mobile usability
+
+### Google Ads and PPC
+
+Discuss:
+
+- Campaign planning
+- Keyword targeting
+- Advertising copy
+- Landing page relevance
+- Conversion tracking
+- Budget management
+- Performance measurement
+
+Never promise guaranteed rankings, leads, revenue, or advertising results.
+
+Every child page must be linked from its parent page, and its parent page must link back to it.
+
+---
+
+# 9. ADVANCED SEO STRATEGY — TOP PRIORITY
+
+Build the entire website using current Google Search best practices and a long-term organic growth strategy.
+
+The goal is to create a strong foundation for competing for relevant first-page and top-ranking positions.
+
+No developer, AI tool, or agency can guarantee the number-one position on Google. Do not make such a promise in website content.
+
+Focus on search intent, technical accessibility, original content, useful information, local relevance, strong internal linking, and performance.
+
+## 9.1 Page-by-Page Keyword Research
+
+Prepare a keyword map for every important URL.
+
+For each page, define:
+
+- Primary search intent
+- Main keyword theme
+- Secondary keywords
+- Long-tail keyword opportunities
+- Relevant semantic terms
+- Local keyword opportunities
+- Customer questions
+- Conversion intent
+- Internal linking opportunities
+
+Potential keyword themes include:
+
+- Website development company in Indore
+- Website designing company in Indore
+- Web development services in Indore
+- E-commerce website development in Indore
+- Business website development in Indore
+- Graphic design company in Indore
+- Logo designer in Indore
+- Social media post design services in Indore
+- SEO company in Indore
+- SEO services in Indore
+- Technical SEO services in Indore
+- Local SEO services in Indore
+- Social media marketing company in Indore
+- Google Business Profile management in Indore
+- Digital marketing agency in Indore
+- Google Ads management in Indore
+- Meta Ads management services in Indore
+
+Treat these as candidate keyword themes, not verified search-volume data.
+
+Use actual keyword research tools and current search results when available.
+
+Do not force a keyword into every heading. Do not stuff the same city name into every sentence.
+
+Assign each keyword theme to the most appropriate page to reduce internal competition between pages.
+
+## 9.2 Unique SEO Metadata
+
+Every indexable page must have:
+
+- Unique title tag
+- Unique meta description
+- Clear H1
+- Logical H2/H3 structure
+- Correct canonical URL
+- Relevant Open Graph metadata
+- Descriptive image alt text
+- Meaningful URL slug
+- Relevant internal links
+
+Example:
+
+Title: Website Development Company in Indore | Web Connect Solutions
+
+Description: Looking for website development in Indore? Explore business websites, e-commerce stores, and custom web solutions from Web Connect Solutions. Discuss your project today.
+
+Use this as an example only. Write unique, accurate metadata for every page.
+
+Do not reuse the homepage title and description across the entire website.
+
+## 9.3 Technical SEO
+
+Implement:
+
+- Semantic HTML5
+- Crawlable links using actual anchor elements
+- Static HTML content immediately available to crawlers
+- Consistent URL structure
+- Correct canonical URLs
+- XML sitemap
+- robots.txt
+- Custom 404 page with correct server response
+- HTTPS-compatible canonical URLs
+- Proper redirects where necessary
+- No broken internal links
+- No accidental noindex directives
+- No duplicate canonical tags
+- No redirect chains without a reason
+- Correct mobile viewport
+- Accessible navigation
+- Optimized images
+- Descriptive filenames
+- Appropriate alt text
+- Open Graph metadata
+- Valid structured data
+- No hidden keyword text
+- No orphan pages
+
+If the production domain is not confirmed, keep it in one clearly documented configuration location and mark it for replacement before deployment.
+
+Do not publish placeholder domains in canonical URLs.
+
+Ensure sitemap.xml contains only canonical, indexable URLs returning successful responses.
+
+## 9.4 Structured Data
+
+Implement suitable JSON-LD where applicable:
+
+- Organization
+- LocalBusiness, using an appropriate subtype and verified details
+- WebSite
+- BreadcrumbList
+- Service
+- Article or BlogPosting for real articles
+- Person or author information where verified
+
+Use the complete business name, "Web Connect Solutions", in the business entity.
+
+Use only verified address, telephone, website, and other business details.
+
+Do not fabricate reviews, ratings, prices, testimonials, awards, or business results.
+
+Do not expect structured data alone to improve rankings or guarantee rich results.
+
+Validate structured data before launch.
+
+## 9.5 Internal Linking Architecture
+
+Build a deliberate hierarchy:
+
+Homepage → Main service pages → Child service pages → Related articles.
+
+Include:
+
+- Breadcrumbs
+- Parent-child links
+- Contextual links within relevant copy
+- Related service links
+- Links from relevant blog articles to services
+- Links from services to relevant articles
+- Footer navigation
+- HTML sitemap
+- Descriptive anchor text
+
+Every important service page must be reachable through standard HTML links.
+
+Avoid excessive exact-match anchor text and irrelevant cross-linking.
+
+## 9.6 Local SEO for Indore
+
+Create genuine local relevance for Indore.
+
+Include:
+
+- Verified business location information
+- Consistent business name and phone number
+- Relevant local service information
+- Natural references to Indore and Madhya Pradesh
+- Local customer use cases
+- Genuine local portfolio examples where available
+- A Google Business Profile link if provided
+- Appropriate local business structured data
+- Clear contact details
+
+Do not invent an office address.
+
+Do not create fake city locations or misleading service-area claims.
+
+Do not mass-produce near-identical city pages.
+
+Only create additional city-specific landing pages when the business can provide genuinely useful and distinct content for those locations.
+
+## 9.7 Helpful Content and Trust
+
+Every page should demonstrate useful, practical knowledge.
+
+- Write naturally in professional English.
+- Explain actual deliverables.
+- Address real customer problems.
+- Include genuine examples where available.
+- Explain the process clearly.
+- Avoid fabricated credentials and claims.
+- Avoid copying competitor websites.
+- Avoid generic filler text.
+- Do not write solely to reach a target word count.
+- Make contact and business information transparent.
+
+A concise, useful page is better than an unnecessarily long, repetitive page.
+
+---
+
+# 10. WEBSITE SPEED AND CORE WEB VITALS
+
+Optimize the website for real-world mobile performance.
+
+Use these Core Web Vitals targets where achievable:
+
+- Largest Contentful Paint: 2.5 seconds or less
+- Interaction to Next Paint: 200 milliseconds or less
+- Cumulative Layout Shift: 0.1 or less
+
+Implement:
+
+- Lightweight CSS and JavaScript
+- Minimal third-party dependencies
+- Properly sized images
+- WebP or AVIF where appropriate
+- Responsive image loading with srcset and sizes
+- Lazy loading for below-the-fold images
+- Appropriate priority for the main hero image
+- Optimized fonts
+- Reserved image dimensions
+- Reduced layout shifts
+- Minimal render-blocking resources
+- Minification for production
+- Efficient animations
+- No unnecessary autoplay videos
+- No excessive carousels
+- No unnecessary scripts
+
+Measure performance using Lighthouse and PageSpeed Insights where available.
+
+Report actual test results. Never claim a perfect score without testing.
+
+---
+
+# 11. CONVERSION RATE OPTIMIZATION
+
+The website must turn relevant visitors into qualified enquiries.
+
+Implement:
+
+- Clear WhatsApp buttons
+- Contextual service enquiry messages
+- Click-to-call links where appropriate
+- Short contact forms
+- Service selection field
+- Name and contact information fields
+- Project requirements field
+- Proper form validation
+- Accessible error messages
+- Clear CTA hierarchy
+- Genuine trust-building content
+- Portfolio examples
+- Useful FAQs
+- Mobile-friendly contact controls
+- Proper success and error states
+
+Use the following WhatsApp number:
+
++91 86299 27995
+
+Base WhatsApp URL:
+
+https://wa.me/918629927995
+
+Each service page must have its own prefilled WhatsApp message.
+
+Examples:
+
+- Website Development enquiry
+- E-commerce Website Development enquiry
+- Logo Design enquiry
+- Local SEO enquiry
+- Google Business Profile Management enquiry
+- Digital Marketing enquiry
+
+Encode WhatsApp messages correctly.
+
+Do not make forms appear functional when no backend is configured.
+
+If no form-processing service is available, document the integration requirements and provide a working WhatsApp alternative.
+
+Never display a successful submission message unless the submission has actually succeeded.
+
+---
+
+# 12. NAVIGATION AND MOBILE EXPERIENCE
+
+## Desktop navigation
+
+Include:
+
+- Home
+- About Us
+- Services mega-menu
+- Portfolio
+- Blog
+- Contact Us
+- Project enquiry CTA
+
+Group child services logically within their respective categories.
+
+## Mobile navigation
+
+Implement:
+
+- Accessible mobile menu
+- Touch-friendly controls
+- Functional dropdowns
+- No horizontal overflow
+- Appropriate font sizes
+- Proper spacing
+- Fast loading
+- Easy contact access
+- Clear page hierarchy
+
+Every visible link, button, dropdown, and form must perform its intended action.
+
+Use semantic elements and respect reduced-motion preferences.
+
+---
+
+# 13. ACCESSIBILITY
+
+Aim for WCAG 2.2 AA compliance.
+
+Implement:
+
+- Semantic HTML
+- Keyboard navigation
+- Visible focus states
+- Adequate contrast
+- Proper form labels
+- Accessible validation
+- Meaningful alt text
+- Accessible dropdowns
+- Screen-reader-friendly status messages
+- Reduced-motion support
+- Logical heading hierarchy
+- Appropriate link descriptions
+
+Do not rely on color alone to communicate information.
+
+---
+
+# 14. PROJECT FILE STRUCTURE
+
+Use an organized structure similar to the following:
+
+/
+  index.html
+  about-us.html
+  services.html
+  contact-us.html
+  our-work.html
+  privacy-policy.html
+  terms-and-conditions.html
+  sitemap.html
+  404.html
+  robots.txt
+  sitemap.xml
+
+  services/
+    website-design-development.html
+    graphic-design.html
+    seo-services.html
+    social-media-optimization.html
+    google-business-profile-management.html
+    digital-marketing.html
+
+    website-design-development/
+      ecommerce-website-development.html
+      business-corporate-websites.html
+      ai-integrated-websites.html
+      erp-management-systems.html
+      shopify-store-development.html
+      portfolio-personal-websites.html
+
+    graphic-design/
+      social-media-post-design.html
+      logo-design-branding.html
+      brand-identity-design.html
+      youtube-thumbnail-design.html
+      product-label-packaging-design.html
+
+    seo-services/
+      on-page-seo.html
+      off-page-seo-link-building.html
+      technical-seo-audit.html
+      keyword-research-strategy.html
+      local-seo.html
+
+    social-media-optimization/
+      social-media-strategy.html
+      content-creation-posting.html
+      profile-optimization.html
+      community-management.html
+      social-media-analytics.html
+
+    google-business-profile-management/
+      profile-setup.html
+      profile-optimization.html
+      profile-growth-management.html
+      review-management.html
+      posts-updates-management.html
+
+    digital-marketing/
+      google-ads-ppc.html
+      meta-ads.html
+      lead-generation.html
+      conversion-rate-optimization.html
+      marketing-strategy.html
+      remarketing-retargeting.html
+      email-marketing.html
+      marketing-analytics.html
+
+  blog/
+    index.html
+    [individual article HTML files]
+
+  assets/
+    css/
+      style.css
+      responsive.css
+
+    js/
+      main.js
+      navigation.js
+      forms.js
+
+    images/
+      [optimized image assets]
+
+You may adjust the folder organization if needed, but every requested page must remain a separate HTML document with correct relative asset paths and working navigation.
+
+---
+
+# 15. QUALITY ASSURANCE AND PRE-LAUNCH VALIDATION
+
+Before declaring the project complete, perform the following checks.
+
+1. Verify that every required HTML file exists.
+2. Check all navigation links.
+3. Check all main and child service links.
+4. Verify every page has unique metadata.
+5. Verify every page has an appropriate H1.
+6. Check canonical URLs.
+7. Validate the XML sitemap.
+8. Validate robots.txt.
+9. Check for broken links.
+10. Check for orphan pages.
+11. Validate HTML and structured data.
+12. Check image loading and alt text.
+13. Test responsive layouts.
+14. Test keyboard navigation.
+15. Test form validation and submission behavior.
+16. Verify WhatsApp links and prefilled messages.
+17. Check mobile performance.
+18. Test Lighthouse where available.
+19. Verify that pages are crawlable without JavaScript.
+20. Confirm the production hosting configuration.
+21. Check for accidental duplicate or thin pages.
+22. Verify that no invented business details appear.
+23. Search the entire project to ensure the official full business name is used consistently and no abbreviation appears.
+24. Confirm that all SEO placeholders are resolved before production deployment.
+
+Document any remaining requirements involving domain configuration, credentials, hosting, analytics, form integrations, or missing business information.
+
+---
+
+# 16. FINAL DELIVERABLES
+
+Deliver:
+
+- Complete homepage
+- About Us page
+- Services overview page
+- Contact Us page
+- Portfolio page
+- Blog landing page and article template
+- All six main service pages
+- Every specified child service page
+- Privacy Policy
+- Terms and Conditions
+- Human-readable HTML sitemap
+- XML sitemap
+- robots.txt
+- Custom 404 page
+- Shared CSS files
+- Shared JavaScript files
+- Optimized visual assets
+- Functional navigation
+- Working contextual WhatsApp links
+- Contact form implementation or documented integration
+- Unique SEO metadata for every indexable page
+- Relevant JSON-LD
+- Internal linking architecture
+- Responsive design
+- Technical SEO configuration
+- Local SEO foundations
+- Testing and deployment documentation
+
+Do not deliver only a homepage or a partial design.
+
+Do not skip pages because of project size. Build the project in manageable batches if needed, maintaining a complete checklist until all requested files have been created and validated.
+
+The final website must be genuinely usable, visually polished, SEO-ready, mobile-friendly, and maintainable.
+
+# FINAL PRIORITIES
+
+1. Use only the full business name "Web Connect Solutions" everywhere.
+2. Build using HTML, CSS, and vanilla JavaScript only.
+3. Give every main service and child service its own HTML page.
+4. Create a unique, premium and memorable visual identity.
+5. Implement strong technical SEO and page-specific content.
+6. Build a genuine local SEO foundation for Indore.
+7. Optimize mobile speed and accessibility.
+8. Generate qualified enquiries through functional contact and WhatsApp CTAs.
+9. Avoid fabricated claims, fake testimonials, and keyword stuffing.
+10. Deliver every requested page and validate the completed project.
+
+The final result should position Web Connect Solutions as a professional digital services provider and create a strong foundation for long-term organic search visibility, customer trust, and business growth.
+
+Remember: rankings cannot be guaranteed. The objective is to build the strongest practical foundation for competing in relevant Google Search results through useful content, excellent technical execution, genuine local relevance, and continuous improvement.

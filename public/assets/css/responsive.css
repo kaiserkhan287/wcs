@@ -1,0 +1,6 @@
+/* Web Connect Solutions Responsive Helpers */
+@media (max-width: 1024px) {
+  .desktop-nav-menu {
+    display: none !important;
+  }
+}
